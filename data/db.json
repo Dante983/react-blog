@@ -23,6 +23,12 @@
       "body": "Blog body kao ima ga dostaa",
       "author": "yoshi",
       "id": 5
+    },
+    {
+      "title": "Najnoviji Blog",
+      "body": "Ovov je neki novi blog sada kao, nemam ni ja pojma sta ce u njemu da pise ali je rikica",
+      "author": "mario",
+      "id": 6
     }
   ]
 }
